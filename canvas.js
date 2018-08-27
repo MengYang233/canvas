@@ -26,7 +26,7 @@ canvas.onmousemove = function() {
 }
 function clearCanvas()
 {
-	canvas.height=canvas.height;
+	canvas.height=window.innerHeight;
 }
 
 
